@@ -1,4 +1,4 @@
-# NtT213_PathTraversal_G3
+# NT213_PathTraversal_G3
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
@@ -24,3 +24,9 @@
 ---
 
 ### Danh sách các bài thực hành
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-simple" title="">File path traversal, simple case </a>
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-absolute-path-bypass" title="">File path traversal, traversal sequences blocked with absolute path bypass </a>
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-sequences-stripped-non-recursively" title="">File path traversal, traversal sequences stripped non-recursively </a>
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-superfluous-url-decode" title="">File path traversal, traversal sequences stripped with superfluous URL-decode </a>
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path" title="">File path traversal, validation of start of path </a>
+- <a href="https://portswigger.net/web-security/file-path-traversal/lab-validate-file-extension-null-byte-bypass" title="">File path traversal, validation of file extension with null byte bypass </a>
